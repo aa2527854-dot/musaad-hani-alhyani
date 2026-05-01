@@ -1,1 +1,5 @@
+My name is Musaad Alhyani.
+My field is.[programming]
+My favorite programming language is Python.
+I want to learn Git and GitHub to manage code and projects.
 
