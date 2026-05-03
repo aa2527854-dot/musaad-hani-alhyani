@@ -1,0 +1,52 @@
+/* ====== General Page Style ====== */
+body {
+    background-color: #f5f5f5;   /* لون خلفية خفيف */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #333;                 /* لون النص */
+}
+
+/* ====== Container Class ====== */
+.container {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+/* ====== Navigation Links ====== */
+.nav a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+.nav a:hover {
+    color: #003366;
+}
+
+/* ====== Main Title (ID) ====== */
+#main-title {
+    color: #007b5e;
+    text-align: center;
+}
+
+/* ====== Table Style ====== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #007b5e;
+    color: white;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
